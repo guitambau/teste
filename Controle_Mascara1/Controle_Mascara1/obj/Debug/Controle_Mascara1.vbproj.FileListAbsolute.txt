@@ -1,0 +1,24 @@
+c:\users\bz8y94\documents\visual studio 2015\Projects\Controle_Mascara1\Controle_Mascara1\bin\Debug\Controle_Mascara1.exe.config
+c:\users\bz8y94\documents\visual studio 2015\Projects\Controle_Mascara1\Controle_Mascara1\bin\Debug\Controle_Mascara1.exe
+c:\users\bz8y94\documents\visual studio 2015\Projects\Controle_Mascara1\Controle_Mascara1\bin\Debug\Controle_Mascara1.pdb
+c:\users\bz8y94\documents\visual studio 2015\Projects\Controle_Mascara1\Controle_Mascara1\bin\Debug\Controle_Mascara1.xml
+c:\users\bz8y94\documents\visual studio 2015\Projects\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.vbprojResolveAssemblyReference.cache
+c:\users\bz8y94\documents\visual studio 2015\Projects\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.Controle_mascara.resources
+c:\users\bz8y94\documents\visual studio 2015\Projects\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.Resources.resources
+c:\users\bz8y94\documents\visual studio 2015\Projects\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.vbproj.GenerateResource.Cache
+c:\users\bz8y94\documents\visual studio 2015\Projects\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.exe
+c:\users\bz8y94\documents\visual studio 2015\Projects\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.xml
+c:\users\bz8y94\documents\visual studio 2015\Projects\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.pdb
+C:\Users\qjtrwm\Desktop\Controle_Mascara1\Controle_Mascara1\bin\Debug\Controle_Mascara1.exe.config
+C:\Users\qjtrwm\Desktop\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.exe
+C:\Users\qjtrwm\Desktop\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.xml
+C:\Users\qjtrwm\Desktop\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.pdb
+C:\Users\qjtrwm\Desktop\Controle_Mascara1\Controle_Mascara1\bin\Debug\Controle_Mascara1.exe
+C:\Users\qjtrwm\Desktop\Controle_Mascara1\Controle_Mascara1\bin\Debug\Controle_Mascara1.pdb
+C:\Users\qjtrwm\Desktop\Controle_Mascara1\Controle_Mascara1\bin\Debug\Controle_Mascara1.xml
+C:\Users\qjtrwm\Desktop\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.vbprojResolveAssemblyReference.cache
+C:\Users\qjtrwm\Desktop\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.Controle_mascara.resources
+C:\Users\qjtrwm\Desktop\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.Resources.resources
+C:\Users\qjtrwm\Desktop\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.vbproj.GenerateResource.Cache
+C:\Users\qjtrwm\Desktop\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.vbproj.ResolveComReference.cache
+C:\Users\qjtrwm\Desktop\Controle_Mascara1\Controle_Mascara1\obj\Debug\Controle_Mascara1.listagem.resources
